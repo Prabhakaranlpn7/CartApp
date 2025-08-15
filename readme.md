@@ -1,7 +1,5 @@
 # 🛒 CartApp
-
-A sample SwiftUI iOS application with a custom shopping cart app icon and launch screen.
-
+A SwiftUI-based shopping application with a custom shopping cart app icon and launch screen.
 
 ## 📱 Features
 - **Custom App Icon**: A red cart icon for branding.
@@ -13,15 +11,21 @@ A sample SwiftUI iOS application with a custom shopping cart app icon and launch
 
 ---
 
-- **ScreenShots**:
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-15 at 19 49 54" src="https://github.com/user-attachments/assets/77f93e62-baeb-4549-a218-50889cda6513" />
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-15 at 19 50 09" src="https://github.com/user-attachments/assets/76882c12-b745-4f24-82e1-7e55f3decc40" />
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-15 at 19 50 39" src="https://github.com/user-attachments/assets/14bcc135-3743-47b4-b93c-495b951f137a" />
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-15 at 19 51 02" src="https://github.com/user-attachments/assets/8fdbd545-a21b-4b03-94f4-c66a79c2808c" />
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-15 at 19 52 43" src="https://github.com/user-attachments/assets/6b871af3-fb4f-49fa-9529-33b34f98fedf" />
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-15 at 19 52 54" src="https://github.com/user-attachments/assets/da4699bb-82f5-448d-a0aa-2ab2ad43b666" />
+## 📷 Screenshots
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/77f93e62-baeb-4549-a218-50889cda6513" width="200" />
+  <img src="https://github.com/user-attachments/assets/76882c12-b745-4f24-82e1-7e55f3decc40" width="200" />
+  <img src="https://github.com/user-attachments/assets/14bcc135-3743-47b4-b93c-495b951f137a" width="200" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8fdbd545-a21b-4b03-94f4-c66a79c2808c" width="200" />
+  <img src="https://github.com/user-attachments/assets/6b871af3-fb4f-49fa-9529-33b34f98fedf" width="200" />
+  <img src="https://github.com/user-attachments/assets/da4699bb-82f5-448d-a0aa-2ab2ad43b666" width="200" />
+</p>
+
+---
 
 
 
